@@ -144,7 +144,6 @@ body {
 .logo:hover {
   transform: scale(1.05);  
 }
-/* إعادة تعيين هوامش العناصر */
 body, html {
   margin: 0;
   padding: 0;
